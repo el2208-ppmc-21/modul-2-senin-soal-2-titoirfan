@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n3\r\nCovid",
-      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien     : Andrew\r\nUmur pasien     : 22\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-7\r\nNama pasien     : Liam\r\nUmur pasien     : 44\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-10\r\nNama pasien     : Suci Rahmawati\r\nUmur pasien     : 20\r\nKondisi pasien  : Covid",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien \t: Andrew Liam\r\nUmur pasien \t: 22\r\nKondisi pasien \t: Covid\r\n\r\nData pasien ke-7\r\nNama pasien \t: Liam\r\nUmur pasien \t: 44\r\nKondisi pasien \t: Covid\r\n\r\nData pasien ke-10\r\nNama pasien \t: Suci Rahmawati\r\nUmur pasien \t: 20\r\nKondisi pasien \t: Covid",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n1\r\nOliv",
-      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-3\r\nNama pasien     : Olivia Satriani\r\nUmur pasien     : 34\r\nKondisi pasien  : Hamil",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-3\r\nNama pasien \t: Olivia Satriani\r\nUmur pasien \t: 34\r\nKondisi pasien \t: Hamil",
       "comparison": "included",
       "timeout": 1,
       "points": 10
