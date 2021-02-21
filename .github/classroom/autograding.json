@@ -5,7 +5,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "filetidakada.txt\r\nfile1.txt\r\n1\r\nLiam",
-      "output": "File tidak ditemukan!\r\n\r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-1\r\nNama pasien     : Andrew Liam\r\nUmur pasien     : 22\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-7\r\nNama pasien     : Liam\r\nUmur pasien     : 44\r\nKondisi pasien  : Covid",
+      "output": "Masukkan nama file: File tidak ditemukan!\r\n\r\nMasukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien \t: Andrew Liam\r\nUmur pasien \t: 22\r\nKondisi pasien \t: Covid\r\n\r\nData pasien ke-7\r\nNama pasien \t: Liam\r\nUmur pasien \t: 44\r\nKondisi pasien \t: Covid",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n2\r\n44",
-      "output": "Nama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-7\r\nNama pasien     : Liam\r\nUmur pasien     : 44\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-8\r\nNama pasien     : Vivi\r\nUmur pasien     : 44\r\nKondisi pasien  : Jantung",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-7\r\nNama pasien \t: Liam\r\nUmur pasien \t: 44\r\nKondisi pasien \t: Covid\r\n\r\nData pasien ke-8\r\nNama pasien \t: Vivi\r\nUmur pasien \t: 44\r\nKondisi pasien \t: Jantung",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n3\r\nCovid",
-      "output": "Nama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-1\r\nNama pasien     : Andrew\r\nUmur pasien     : 22\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-7\r\nNama pasien     : Liam\r\nUmur pasien     : 44\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-10\r\nNama pasien     : Suci Rahmawati\r\nUmur pasien     : 20\r\nKondisi pasien  : Covid",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien     : Andrew\r\nUmur pasien     : 22\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-7\r\nNama pasien     : Liam\r\nUmur pasien     : 44\r\nKondisi pasien  : Covid\r\n\r\nData pasien ke-10\r\nNama pasien     : Suci Rahmawati\r\nUmur pasien     : 20\r\nKondisi pasien  : Covid",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n1\r\nOliv",
-      "output": "Nama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-3\r\nNama pasien     : Olivia Satriani\r\nUmur pasien     : 34\r\nKondisi pasien  : Hamil",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-3\r\nNama pasien     : Olivia Satriani\r\nUmur pasien     : 34\r\nKondisi pasien  : Hamil",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file1.txt\r\n2\r\n36",
-      "output": "Nama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien tidak ditemukan!",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Kasih Ibu\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien tidak ditemukan!",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file2.txt\r\n1\r\nMartha Tilaar",
-      "output": "Nama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-2\r\nNama pasien     : Martha Tilaar\r\nUmur pasien     : 90\r\nKondisi pasien  : Katarak",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-2\r\nNama pasien \t: Martha Tilaar\r\nUmur pasien \t: 90\r\nKondisi pasien \t: Katarak",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file2.txt\r\n3\r\nPatah Tulang",
-      "output": "Nama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-1\r\nNama pasien     : Rosa Valentine\r\nUmur pasien     : 17\r\nKondisi pasien  : Patah Tulang\r\n\r\nData pasien ke-4\r\nNama pasien     : Raja Marthin\r\nUmur pasien     : 5\r\nKondisi pasien  : Patah Tulang",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien \t: Rosa Valentine\r\nUmur pasien \t: 17\r\nKondisi pasien \t: Patah Tulang\r\n\r\nData pasien ke-4\r\nNama pasien \t: Raja Marthin\r\nUmur pasien \t: 5\r\nKondisi pasien \t: Patah Tulang",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "asdf\r\nngasal.txt\r\nfile2.txt\r\n2\r\n7",
-      "output": "File tidak ditemukan!\r\n\r\nFile tidak ditemukan!\r\n\r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-1\r\nNama pasien     : Rosa Valentine\r\nUmur pasien     : 17\r\nKondisi pasien  : Patah Tulang\r\n\r\nData pasien ke-6\r\nNama pasien     : Sony Cart\r\nUmur pasien     : 7\r\nKondisi pasien  : Polip\r\n\r\nData pasien ke-7\r\nNama pasien     : Raja\r\nUmur pasien     : 17\r\nKondisi pasien  : Covid",
+      "output": "Masukkan nama file: File tidak ditemukan!\r\n\r\nMasukkan nama file: File tidak ditemukan!\r\n\r\nMasukkan nama file: \r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-1\r\nNama pasien \t: Rosa Valentine\r\nUmur pasien \t: 17\r\nKondisi pasien \t: Patah Tulang\r\n\r\nData pasien ke-6\r\nNama pasien \t: Sony Cart\r\nUmur pasien \t: 7\r\nKondisi pasien \t: Polip\r\n\r\nData pasien ke-7\r\nNama pasien \t: Raja\r\nUmur pasien \t: 17\r\nKondisi pasien \t: Covid",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file2.txt\r\n3\r\nLuka",
-      "output": "Nama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien ke-3\r\nNama pasien     : Donny Sinaga\r\nUmur pasien     : 28\r\nKondisi pasien  : Luka Bakar\r\n\r\nData pasien ke-5\r\nNama pasien     : Jojo\r\nUmur pasien     : 68\r\nKondisi pasien  : Luka Tusuk",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien ke-3\r\nNama pasien \t: Donny Sinaga\r\nUmur pasien \t: 28\r\nKondisi pasien \t: Luka Bakar\r\n\r\nData pasien ke-5\r\nNama pasien \t: Jojo\r\nUmur pasien \t: 68\r\nKondisi pasien \t: Luka Tusuk",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "file2.txt\r\n1\r\nraja",
-      "output": "Nama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\n\r\nData pasien tidak ditemukan!",
+      "output": "Masukkan nama file: \r\nNama Rumah Sakit: RS. Polisi Sehat\r\n\r\nJenis pencarian pasien:\r\n1. Nama\r\n2. Umur\r\n3. Penyakit\r\nPilihan pencarian: Masukkan pencarian: \r\nData pasien tidak ditemukan!",
       "comparison": "included",
       "timeout": 1,
       "points": 10
