@@ -27,13 +27,13 @@ int main(){
     FILE *fp = NULL;
 
     printf("Masukkan nama file: ");
-    gets(file);
+    scanf("%s", &file);
     fp = fopen(file, "r");
 
     while (fp == NULL){
         printf("File tidak ditemukan!\n\n");
-        printf("Masukkan nama file: ");
-        gets(file);
+        printf("Masukkan nama file: ");  
+        scanf("%s", &file);
         fp = fopen(file, "r");
     }
 
